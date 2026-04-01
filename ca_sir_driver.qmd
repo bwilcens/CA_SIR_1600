@@ -7,7 +7,7 @@ format: html
 
 ## The repository structure:
 
-# A functions folder containing python scripts: init.py, draw.py, update.py, and mounse.py. 
+# A functions folder containing python scripts: init.py, draw.py, update.py, and mouse.py. 
 # A .qmd file containing this descriptiuon of the repository and a python driver code snippet. 
 
 
